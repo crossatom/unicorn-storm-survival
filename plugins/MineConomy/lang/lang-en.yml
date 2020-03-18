@@ -5,13 +5,13 @@
 Lang:
   Tag: MineConomy
   Message:
-    Welcome Message: '&eДобро пожаловать! Ваш баланс: &a&l%pos-balance%&c&l%neg-balance%
+    Welcome Message: '&eДобро пожаловать! Ваш баланс: &a%pos-balance%&c%neg-balance%
       &e%currency%. Используйте: ''/mc help'' для подсказок'
     Welcome Account Created: '&eНа Вас зарегистрирован валютный счёт'
-    Account Balance: '&eВаш баланс: &a&l%pos-balance%&c&l%neg-balance% &e%currency%'
-    Bank Balance: '&f[&b%bank%&f] &eбаланс: &a&l%pos-balance%&c&l%neg-balance%'
+    Account Balance: '&eВаш баланс: &a%pos-balance%&c%neg-balance% &e%currency%'
+    Bank Balance: '&f[&b%bank%&f] &eбаланс: &a%pos-balance%&c%neg-balance%'
     Currency Set: '&f%player%''s currency has been set to %currency%.'
-    Exp Check: '&eОпыт: &a&l%exp% &fpoints'
+    Exp Check: '&eОпыт: &a%exp% &fpoints'
     Get Balance: '&e%player%''s имеет на счету %balance% %currency%.'
     Set Balance: '&eВы установили баланс &c%player% &eна &a%balance% &f%currency%.'
     Give: '&c%player% &eвыдано &a%amount% &f%currency%.'
