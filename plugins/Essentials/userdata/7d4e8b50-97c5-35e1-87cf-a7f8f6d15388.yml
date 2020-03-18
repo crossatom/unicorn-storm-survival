@@ -1,0 +1,24 @@
+afk: true
+timestamps:
+  lastteleport: 1584546637861
+  kits:
+    tools: 1584473415913
+  logout: 1584491518775
+  login: 1584545011279
+lastlocation:
+  world: world
+  x: -2134.1071515204635
+  y: 79.99433177306308
+  z: -210.5281109381467
+  yaw: -90.74995
+  pitch: -20.100004
+teleportenabled: true
+logoutlocation:
+  world: world
+  x: -2127.768773724125
+  y: 76.11549257360886
+  z: -205.0347527467404
+  yaw: 114.60571
+  pitch: 17.849854
+lastAccountName: TyLoDesu
+ipAddress: 127.0.0.1

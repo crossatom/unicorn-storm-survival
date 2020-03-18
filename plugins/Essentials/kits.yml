@@ -1,0 +1,84 @@
+# EssentialsX kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - name[:durability] amount [enchantment:level]... [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# To make the kit execute a command, add /<command> to the items list. Use {PLAYER} to specify the player receiving the kit.
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  # Start kit
+  start:
+    delay: -1
+    items:
+      - ironsword 1
+      - ironpickaxe 1
+      - ironshovel 1
+      - ironaxe 1
+      - ironhelmet 1
+      - ironchestplate 1
+      - ironlegs 1
+      - ironboots 1
+      - apple 32
+      - oakplank 64
+      - glass 32
+      - cobblestone 32
+      - oakdoor 1
+      - workbench 1
+      - furnace 1
+      - chest 2
+  # Free kits
+  tools:
+    delay: 86400
+    items:
+      - stonesword 1
+      - stonepickaxe 1
+      - stoneshovel 1
+      - stoneaxe 1
+      - stonehoe 1
+  food:
+    delay: 14400
+    items:
+      - apple 16
+      - grilledpork 8
+      - grilledsteak 4
+  build:
+    delay: 86400
+    items:
+      - oak 32
+      - glass 32
+      - whitecarpet 8
+      - woodfence 16
+  # Premium kits
+  ptools:
+    delay: 1800
+    items:
+      - diamondsword 1
+      - diamondpickaxe 1
+      - diamondshovel 1
+      - diamondaxe 1
+      - diamondhoe 1
+      - fishrod 1
+  pfood:
+    delay: 1800
+    items:
+      - cookedmutton 8
+      - grilledsteak 16
+      - grilledport 16
+      - soup 1
+      - soup 1
+      - apple 32
+  pbuild:
+    delay: 1800
+    items:
+      - brickblock 64
+      - whiteglasspane 64
+      - darkoakdoor 1
+      - darkoaddoor 1
+      - orangecarpet 16
+      - flowerpot 2
+      - tallgrass 2
+      - glowstone 8
