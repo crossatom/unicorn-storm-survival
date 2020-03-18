@@ -2,4 +2,8 @@
 # 
 #     Do not edit!
 
-Banks: ''
+Banks:
+  SberBank:
+    Max Debt: 0.0
+    Status: Public
+    Starting Balance: 0.0

@@ -1,16 +1,16 @@
 lastAccountName: Veelzy
 timestamps:
-  login: 1584546586583
-  lastteleport: 1584546621753
-  logout: 1584546457439
+  login: 1584557735148
+  lastteleport: 1584559954101
+  logout: 1584557315021
 ipAddress: 127.0.0.1
 lastlocation:
   world: world
-  x: -2139.653250594116
-  y: 67.0
-  z: -209.06904685892798
-  yaw: -130.34993
-  pitch: -1.8000045
+  x: -2259.974830373567
+  y: 69.0
+  z: -1017.948189285199
+  yaw: -23.386353
+  pitch: 25.350058
 homes:
   home:
     world: world
@@ -21,9 +21,9 @@ homes:
     pitch: 66.900024
 logoutlocation:
   world: world
-  x: -2251.467469040448
-  y: 73.04505351482952
-  z: -1005.7398479259721
-  yaw: -229.67218
-  pitch: 7.3802114
-afk: true
+  x: -2257.0002479505256
+  y: 76.0
+  z: -1063.440705132949
+  yaw: -329.5949
+  pitch: 15.900173
+afk: false

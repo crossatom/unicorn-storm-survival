@@ -1,0 +1,28 @@
+lastAccountName: k_loboda
+timestamps:
+  login: 1584556658650
+  lastteleport: 1584556334150
+  logout: 1584556368541
+ipAddress: 37.114.28.6
+lastlocation:
+  world: world
+  x: -245.5
+  y: 72.0
+  z: 83.5
+  yaw: 2.0727673
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: -1875.4613179828996
+    y: 77.0
+    z: -191.988719023408
+    yaw: 30.15039
+    pitch: 22.649973
+logoutlocation:
+  world: world
+  x: -2149.5
+  y: 68.0
+  z: -210.5
+  yaw: -90.74995
+  pitch: -20.100004

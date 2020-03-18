@@ -1,17 +1,17 @@
 afk: false
 timestamps:
-  lastteleport: 1584549720012
+  lastteleport: 1584556947803
   kits:
     tools: 1584473415913
-  logout: 1584549988418
-  login: 1584549389460
+  logout: 1584556201242
+  login: 1584560213928
 lastlocation:
   world: world
-  x: -2059.2256133988467
-  y: 72.0
-  z: -209.24945034808746
-  yaw: -59.84996
-  pitch: -3.4500053
+  x: -1703.945442453768
+  y: 63.0
+  z: -278.20732112605134
+  yaw: -247.6223
+  pitch: 22.35015
 teleportenabled: true
 logoutlocation:
   world: world

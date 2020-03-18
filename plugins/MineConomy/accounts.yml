@@ -2,4 +2,16 @@
 # 
 #     Do not edit!
 
-Accounts: ''
+Accounts:
+  TyLoDesu:
+    Balance: 0.0
+    Currency: Dollars
+    Status: NORMAL
+  k_loboda:
+    Balance: 0.0
+    Currency: Dollars
+    Status: NORMAL
+  Veelzy:
+    Balance: 999.45
+    Currency: Dollars
+    Status: NORMAL
