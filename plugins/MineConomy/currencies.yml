@@ -3,7 +3,19 @@
 #     Experience ID: _exp
 
 Currencies:
-  Dollars:
+  Unicorn:
     Value: 1.0
     Default: true
-Physical: ''
+  Real:
+    Value: 10.0
+    Default: false
+  Admine:
+    Value: 1000.0
+    Default: false
+Physical:
+  gold:
+    Value: 200.0
+    ID: 266
+  diamond:
+    Value: 500.0
+    ID: 264

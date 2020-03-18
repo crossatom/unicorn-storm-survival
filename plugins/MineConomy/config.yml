@@ -3,20 +3,20 @@
 #     
 
 Balance:
-  Starting Balance: 0.0
-  Max Debt: 0.0
-  Max Balance: 9999999.99
-Display GUI: false
+  Starting Balance: 2000.0
+  Max Debt: 12000.0
+  Max Balance: 10000000000.0
+Display GUI: true
 Warn Ops: true
 Log Priority: 4
 Interest:
-  Amount: 0.0
-  Interval: 0
-  Mode: none
+  Amount: 20.0
+  Interval: 5m
+  Mode: fixed
 Tax:
-  Amount: 0.0
-  Interval: 0
-  Mode: none
+  Amount: 10.0
+  Interval: 20m
+  Mode: precent
 Database:
   URL: ''
   Name: ''

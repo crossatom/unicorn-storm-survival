@@ -19,3 +19,9 @@ aliases:
   - spawn
   ыы:
   - spawn
+  bal:
+  - mc balance
+  ebal:
+  - mc balance
+  balance:
+  - mc balance
